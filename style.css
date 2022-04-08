@@ -1,0 +1,36 @@
+h1 {
+    align-content: center;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+h2 {
+    align-content: center;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 5px;
+}
+
+#currentTime {
+    align-content: center;
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.now{
+    color: green;
+  }
+  .past{
+    color: red;
+  }
+  .future{
+    color: grey;
+  }
